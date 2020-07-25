@@ -1,12 +1,8 @@
 # Hi there 👋, this is [Aravind](https://www.linkedin.com/in/n-aravind/) :smile: :book: :pencil: :headphones: :pizza:
 
----
-
 I am a Full Stack Developer, working on DevOps, exploring Machine Learning
 
 # Working In :briefcase:
-
----
 
 ## Full Stack Development (0 - 1 years) :briefcase: :iphone:
 
@@ -22,7 +18,6 @@ I am a Full Stack Developer, working on DevOps, exploring Machine Learning
 
 # Skills :wrench:
 
----
 
 - Programming Languages: JavaScript, NodeJS, Python
 - Tools:AWS, Docker, Postman, API and More
