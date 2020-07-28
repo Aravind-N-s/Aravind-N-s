@@ -19,8 +19,9 @@ I am a Full Stack Developer, working on DevOps, exploring Machine Learning
 # Skills :wrench:
 
 
-- Programming Languages: JavaScript, NodeJS, Python
-- Tools:AWS, Docker, Postman, API and More
+- Programming Languages: JavaScript, NodeJS, Python.
+- Automation Testing Libraries & Frameworks: Mocha, Chai, Sinon, Cypress.
+- Tools: AWS, Docker, Postman, API and More.
 
 # Reach me at: :metal:
 
