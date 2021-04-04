@@ -11,7 +11,7 @@ I am a Full Stack Developer, working on DevOps, exploring Machine Learning
 - Unit test cases for TDD and End To End test cases.
 - Experience in Agile workflow and writing User Stories.
 
-## DevOps (0 - 1 years) :inbox_tray: :construction_worker:
+## DevOps (1 - 2 years) :inbox_tray: :construction_worker:
 
 - Building Docker Compose files and linking multiple services.
 - Continous intergration, deployment.
@@ -25,7 +25,7 @@ I am a Full Stack Developer, working on DevOps, exploring Machine Learning
 
 # Reach me at: :metal:
 
-- [Email](mailto:aravind1808@gmail.com) :email:
+- [Email](mailto:n-Aravind@outlook.com) :email:
 - [LinkedIn](https://www.linkedin.com/in/n-aravind/) :tea:
 
 <!--
