@@ -1,27 +1,28 @@
 # Hi there 👋, this is [Aravind](https://www.linkedin.com/in/n-aravind/) :smile: :book: :pencil: :headphones: :pizza:
 
-I am a Full Stack Developer, working on DevOps, exploring Machine Learning
+I am a Full Stack Developer and DevOps Developer, exploring Machine Learning.  Love to teach, read and write.
 
 # Working In :briefcase:
 
-## Full Stack Development (2 - 3 years) :briefcase: :iphone:
+## Full Stack Development (3 - 4 years) :briefcase: :iphone:
 
 - Mobile & Web
 - Enhanced existing systems or build things from scratch.
 - Unit test cases for TDD and End To End test cases.
 - Experience in Agile workflow and writing User Stories.
 
-## DevOps (1 - 2 years) :inbox_tray: :construction_worker:
+## DevOps (2 - 3 years) :inbox_tray: :construction_worker:
 
+- Building and Maintaing Kubernetes Clusters and Monitoring it with Prometheus and Grafana.
 - Building Docker Compose files and linking multiple services.
 - Continous intergration, deployment.
 
 # Skills :wrench:
 
-- Programming Languages: JavaScript, NodeJS, Python.
-- Libraries: ReactJS, Redux, Express, Django, Sails, MongoDB, MySQL
-- Automation Testing Libraries & Frameworks: Mocha, Chai, Sinon, Cypress.
-- Tools: AWS, Docker, CI-CD, Postman, API and More.
+- Programming Languages: JavaScript (Web - Node.js)
+- Technologies: Kubernetes, Docker, Terraform, React
+- Databases: NoSQL (MongoDB, ElasticSearch)
+- Cloud: Amazon Web Services (Advanced). Infrastructure as Code, Load Balancers and more!
 
 # Reach me at: :metal:
 
