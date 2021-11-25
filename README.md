@@ -19,7 +19,7 @@ I am a Full Stack Developer and DevOps Developer, exploring Machine Learning.  L
 
 # Skills :wrench:
 
-- Programming Languages: JavaScript (Web - Node.js)
+- Programming Languages: JavaScript (Web - React/Node.js)
 - Technologies: Kubernetes, Docker, Terraform, React
 - Databases: NoSQL (MongoDB, ElasticSearch)
 - Cloud: Amazon Web Services (Advanced). Infrastructure as Code, Load Balancers and more!
