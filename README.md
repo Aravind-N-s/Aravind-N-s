@@ -1,6 +1,6 @@
 # Hi there 👋, this is [Aravind](https://www.linkedin.com/in/n-aravind/) :smile: :book: :pencil: :headphones: :pizza:
 
-I am a Full Stack Developer and DevOps Developer, exploring Machine Learning.  Love to teach, read and write.
+I am a Full Stack Developer and DevOps Developer, exploring Machine Learning.  Love to teach, read.
 
 # Working In :briefcase:
 
@@ -27,6 +27,7 @@ I am a Full Stack Developer and DevOps Developer, exploring Machine Learning.  L
 # Reach me at: :metal:
 
 - [Email](mailto:n-Aravind@outlook.com) :email:
+- Phone :iphone:
 - [LinkedIn](https://www.linkedin.com/in/n-aravind/) :tea:
 
 <!--
