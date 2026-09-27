@@ -33,20 +33,8 @@ I am a passionate Full Stack and DevOps Developer with a strong foundation in bu
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Aravind-N-s&show_icons=true&theme=radical" alt="Aravind's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind-N-s&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - **LinkedIn**: [linkedin.com/in/n-aravind/](https://www.linkedin.com/in/n-aravind/) 🌐
 - **Email**: [n-Aravind@outlook.com](mailto:n-Aravind@outlook.com) 📧
 - **Phone**: Available upon request 📱
-
----
-*Built with ❤️ and curated for the community.*
